@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Election CLI Gem"
-date:   2016-10-14 23:53:22 +0000
+date:   2016-10-14 19:53:22 -0400
 ---
 
 For the better part of the summer, I was somewhat obsessed with the website [FiveThirtyEight.com](http://FiveThirtyEight.com).
@@ -69,7 +69,7 @@ And soon I had a Scraper class that did my scraping, a Polls class that created 
 My code was much more readable as a result, and my CLI interface was A LOT quicker.  Before the refactoring, each time the user typed in a state name, the gem pinged the website and scraped the appropriate data.  So 10 state queries equaled 10 website pings, and this slowed things down considerably.  Now, before any state queries are made by the user, all of the state polls (plus D.C.) are instantiated and saved in an array with just one website scrape, so the response time to a user's state query is instantaneous.
 
 
-### Conclusion
+# Conclusion
 
 This all was a lot of hard work.  
 
