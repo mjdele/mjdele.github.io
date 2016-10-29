@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Practical App"
-date:   2016-10-29 01:13:38 +0000
+date:   2016-10-28 21:13:38 -0400
 ---
 
 
@@ -23,7 +23,7 @@ Jump ahead to fall of 2015, and although I can’t exactly pinpoint when and how
 
 After an info-session, I found myself legitimately inspired by the genuine enthusiasm of the presenter.  Once I began the curriculum, the practical, lab-based approach drew me in the most.  Learn, attempt, fail, repeat...until you pass the lab.  Then onto the next topic.  And no matter how little, in the end you have created something.  There are tangible results.  It is as hands-on (so to speak) and practical as being back in the garage.
 
-I enjoy the creativity of work.  DIscovering all the different ways to get from point A (a broken program) to point B (a working one), but eventually understanding and trying to nail down the most efficient one.
+I enjoy the creativity of work.  Discovering all the different ways to get from point A (a broken program) to point B (a working one), but eventually understanding and trying to nail down the most efficient one.
 
 I like that it's difficult and challenging.  
 
